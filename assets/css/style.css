@@ -18,8 +18,15 @@ header {
     left: 0;
     width: 100%;
     display: flex;
-    justify-content: space-between;
     align-items: center;
+}
+
+/* Nome + Menu allineati */
+.header-container {
+    display: flex;
+    align-items: center;
+    width: 800px; /* Mantiene una larghezza contenuta */
+    margin: 0 auto;
 }
 
 header h1 {
