@@ -1,79 +1,73 @@
-/* Impostazioni generali */
+/* Stile generale */
 body {
     font-family: 'Inter', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #f9f9f9;
     color: #333;
+    line-height: 1.6;
 }
 
-/* Header fisso in alto */
+/* Header */
 header {
-    width: 100%;
-    background-color: white;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    padding: 15px 20px;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     position: fixed;
     top: 0;
     left: 0;
+    width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-/* Titolo */
-h1 {
-    font-size: 22px;
-    font-weight: 600;
-    color: #222;
-    margin: 0;
+header h1 {
+    font-size: 24px;
+    margin-left: 20px;
 }
 
-/* Navigazione */
 nav ul {
     list-style: none;
     padding: 0;
     margin: 0;
+    display: flex;
 }
 
 nav ul li {
-    display: inline;
-    margin-left: 20px;
+    margin-right: 20px;
 }
 
-nav a {
+nav ul li a {
     text-decoration: none;
+    color: #333;
     font-weight: 500;
-    color: #0077cc;
-    transition: color 0.2s ease-in-out;
+    padding: 8px 12px;
+    border-radius: 6px;
+    transition: background 0.2s ease-in-out;
 }
 
-nav a:hover {
-    color: #005599;
+nav ul li a:hover {
+    background: #ddd;
 }
 
-/* Contenitore principale */
+/* Contenuto centrato */
 .container {
-    max-width: 900px;
-    width: 80%;
-    margin: 100px auto 20px auto; /* Spazio sotto l'header */
-    padding: 30px;
-    background: white;
+    max-width: 800px;
+    margin: 100px auto 50px;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-}
-
-/* Contenuto */
-.content {
-    font-size: 18px;
-    line-height: 1.6;
 }
 
 /* Footer */
 footer {
     text-align: center;
-    margin-top: 20px;
+    padding: 20px;
     font-size: 14px;
-    color: #777;
-    padding: 10px 0;
+    background: #fff;
+    box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
 }
+
