@@ -1,12 +1,8 @@
 /* Impostazioni generali */
 body {
     font-family: 'Inter', sans-serif;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-start;
-    min-height: 100vh;
     margin: 0;
+    padding: 0;
     background-color: #f4f4f4;
     color: #333;
 }
@@ -14,18 +10,20 @@ body {
 /* Header fisso in alto */
 header {
     width: 100%;
-    padding: 15px 0;
     background-color: white;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    text-align: center;
+    padding: 15px 20px;
     position: fixed;
     top: 0;
     left: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 /* Titolo */
 h1 {
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 600;
     color: #222;
     margin: 0;
@@ -35,12 +33,12 @@ h1 {
 nav ul {
     list-style: none;
     padding: 0;
-    margin: 10px 0 0;
+    margin: 0;
 }
 
 nav ul li {
     display: inline;
-    margin: 0 15px;
+    margin-left: 20px;
 }
 
 nav a {
@@ -56,14 +54,13 @@ nav a:hover {
 
 /* Contenitore principale */
 .container {
-    max-width: 700px;
-    width: 90%;
-    padding: 20px;
+    max-width: 900px;
+    width: 80%;
+    margin: 100px auto 20px auto; /* Spazio sotto l'header */
+    padding: 30px;
     background: white;
-    border-radius: 10px;
+    border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-    text-align: center;
-    margin-top: 120px; /* Spazio sotto l'header */
 }
 
 /* Contenuto */
@@ -74,7 +71,9 @@ nav a:hover {
 
 /* Footer */
 footer {
+    text-align: center;
     margin-top: 20px;
     font-size: 14px;
     color: #777;
+    padding: 10px 0;
 }
