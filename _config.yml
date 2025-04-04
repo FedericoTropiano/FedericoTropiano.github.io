@@ -2,7 +2,7 @@ title: "Federico Tropiano"
 description: "PhD in Quantitative Finance – Research, Teaching, Code"
 baseurl: ""
 url: "https://tuousername.github.io"
-markdown: kramdown
+
 theme: minima
 
 plugins:
