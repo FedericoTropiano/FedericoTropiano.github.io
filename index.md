@@ -1,10 +1,11 @@
 ---
+layout: default
 title: "Home"
 ---
 
-# Nome Cognome  
+# Federico Tropiano  
 PhD in Quantitative Finance  
 
-Currently working on research, teaching, and exploring the edges of markets, code, and ideas.
+Finance, Economics, Coding.
 
 👉 [About](/about) · [Resources](/resources) · [Blog](https://tuosubstack.substack.com)
