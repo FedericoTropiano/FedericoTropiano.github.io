@@ -3,7 +3,7 @@ description: "PhD in Quantitative Finance – Research, Teaching, Code"
 baseurl: ""
 url: "https://tuousername.github.io"
 markdown: kramdown
-remote_theme: pages-themes/minimal@v0.2.0
+theme: minima
 
 plugins:
   - jekyll-feed
