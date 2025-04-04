@@ -1,18 +1,30 @@
-otitle: "Federico Tropiano"
-description: "PhD student in Economics and Quantitative Methods | Quantitative Finance"
-baseurl:
+title: Federico Tropiano
+author: Federico Tropiano
+email: federico.tropiano@edu.unige.it
+description: Breve descrizione del tuo sito accademico
+baseurl: ""
 url: "https://federicotropiano.github.io"
-markdown: kramdown
-theme: minima
 
-header_pages:
-  - index.md
-  - about.md
-  - publications.md
-  - projects.md
-  - contact.md
-  
+# Social links
+twitter_username: 
+github_username: FedericoTropiano
+linkedin_username: 
+google_scholar: 
+orcid: 
+researchgate:
+
+# Tema minima configurazione aggiuntiva
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
+
+# Personalizzazione menu di navigazione
+header_pages:
+  - about.md
+  - blog.md
+  - risorse.md
+  - tutoring.md
+
+# Altre impostazioni
+show_excerpts: true
