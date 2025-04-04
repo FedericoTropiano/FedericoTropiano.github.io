@@ -1,13 +1,76 @@
+---
+layout: default
+---
+
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/style.css" />
-  </head>
-  <body>
-    <main>
-      {{ content }}
-    </main>
-  </body>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title | default: site.title }}</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    header {
+      background-color: #ffffff;
+      padding: 20px 0;
+      text-align: center;
+      border-bottom: 1px solid #ddd;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+      color: #333;
+    }
+    nav {
+      margin-top: 10px;
+    }
+    nav a {
+      color: #333;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .content {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: 0 auto;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    }
+    footer {
+      padding: 20px;
+      text-align: center;
+      font-size: 0.9rem;
+      background-color: #fff;
+      border-top: 1px solid #ddd;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>{{ site.title }}</h1>
+  <nav>
+    <a href="{{ site.baseurl }}/about">About</a>
+    <a href="{{ site.baseurl }}/blog">Blog</a>
+  </nav>
+</header>
+
+<div class="content">
+  {{ content }}
+</div>
+
+<footer>
+  <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+</footer>
+
+</body>
 </html>
