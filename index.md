@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Nome Cognome
+# Federico Tropiano
 
 PhD in Quantitative Finance  
 University of Genoa • [Email](federico.tropiano@edu.unige.it) • [CV](cv.pdf)
