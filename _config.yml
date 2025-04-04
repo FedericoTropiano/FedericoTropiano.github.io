@@ -4,8 +4,6 @@ baseurl: ""
 url: "https://federicotropiano.github.io"
 markdown: kramdown
 theme: minima
-minima:
-  skin: dark
 
 header_pages:
   - index.md
