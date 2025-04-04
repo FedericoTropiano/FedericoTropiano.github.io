@@ -1,6 +1,6 @@
-title: "Federico Tropiano"
-description: "PhD in Quantitative Finance – Research, Teaching, Code"
-baseurl: ""
+otitle: "Federico Tropiano"
+description: "PhD student in Economics and Quantitative Methods | Quantitative Finance"
+baseurl:
 url: "https://federicotropiano.github.io"
 markdown: kramdown
 theme: minima
