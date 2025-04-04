@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Mio primo post"
+date: 2025-04-04
 ---
 
-Questo è il mio primo post sul sito.
+Benvenuto nel mio primo post.  
+Qui condivido riflessioni e appunti di lavoro.
