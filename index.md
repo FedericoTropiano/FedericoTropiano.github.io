@@ -14,9 +14,4 @@ I published a paper on Risk Management Magazine (RMM) Vol. 19, N. 3 on the prici
 
 The working paper I'm working on is focused on improving the explainability of the default probability model with a comparison between native "white boxes" Machine Learning techniques.
 
-
----
-
-Benvenuto nel mio sito.  
-
 <!-- Puoi espandere con link a pubblicazioni, progetti, GitHub -->
