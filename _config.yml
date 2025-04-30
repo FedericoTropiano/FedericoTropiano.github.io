@@ -26,5 +26,8 @@ header_pages:
   - risorse.md
   - tutoring.md
 
+sass:
+  style: compressed
+
 # Altre impostazioni
 show_excerpts: true
