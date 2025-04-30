@@ -22,4 +22,13 @@ I published in Risk Management Magazine (Vol. 19, No. 3) a paper on exotic optio
 Sono dottorando in Economics and Quantitative Methods. La mia ricerca si concentra su finanza quantitativa e machine learning, con applicazioni alla valutazione di derivati esotici e alla modellizzazione del rischio di credito.
 
 Ho pubblicato un articolo su Risk Management Magazine (Vol. 19, N. 3) riguardante la valutazione di opzioni esotiche tramite Conditional Monte Carlo. Una pubblicazione in uscita esplora l’uso di tecniche di machine learning nativamente interpretabili per migliorare la spiegabilità dei modelli di probabilità di default.
+
+
+## 📌 Esplora
+
+- 🔍 [Ricerca](/ricerca)
+- 📖 [Blog](https://tua-substack.substack.com)
+- 🎓 [Lezioni Private](/lezioni)
+- ✉️ [Contatti](/contatti)
+- 
 <!-- Puoi espandere con link a pubblicazioni, progetti, GitHub -->
