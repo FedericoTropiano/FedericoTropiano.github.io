@@ -8,9 +8,15 @@ title: Home
 PhD in Quantitative Finance  
 University of Genoa • [Email](federico.tropiano@edu.unige.it) • [CV](cv.pdf)
 
+🇬🇧
+
 I am a PhD candidate in Economics and Quantitative Methods. My research focuses on quantitative finance and machine learning, with applications to exotic derivatives pricing and credit risk modeling.
 
 I published in Risk Management Magazine (Vol. 19, No. 3) a paper on exotic option pricing via Conditional Monte Carlo. A forthcoming publication investigates the use of inherently interpretable machine learning techniques to improve the explainability of default probability models.
+
+--- 
+
+🇮🇹
 
 Sono dottorando in Economics and Quantitative Methods. La mia ricerca si concentra su finanza quantitativa e machine learning, con applicazioni alla valutazione di derivati esotici e alla modellizzazione del rischio di credito.
 
