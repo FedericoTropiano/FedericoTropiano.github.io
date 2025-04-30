@@ -14,7 +14,7 @@ I am a PhD candidate in Economics and Quantitative Methods. My research focuses 
 
 I published in Risk Management Magazine (Vol. 19, No. 3) a paper on exotic option pricing via Conditional Monte Carlo. A forthcoming publication investigates the use of inherently interpretable machine learning techniques to improve the explainability of default probability models.
 
---- 
+
 
 
 🇮🇹
@@ -28,7 +28,6 @@ Ho pubblicato un articolo su Risk Management Magazine (Vol. 19, N. 3) riguardant
 
 - 🔍 [Ricerca](/ricerca)
 - 📖 [Blog](https://tua-substack.substack.com)
-- 🎓 [Lezioni Private](/lezioni)
+- 🎓 [Lezioni Private](/tutoring)
 - ✉️ [Contatti](/contatti)
-- 
 <!-- Puoi espandere con link a pubblicazioni, progetti, GitHub -->
