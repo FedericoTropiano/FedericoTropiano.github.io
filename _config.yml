@@ -19,6 +19,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+minima:
+  skin: null
+
 # Personalizzazione menu di navigazione
 header_pages:
   - about.md
