@@ -1,0 +1,33 @@
+// Palette: navy, grigio scuro, oro
+$background-color: #0b0f1a;
+$text-color: #e6e6e6;
+$accent-color: #cba135; // oro
+$link-color: $accent-color;
+$link-hover-color: lighten($accent-color, 10%);
+
+// Font elegante (se vuoi usare Google Fonts)
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+body {
+  background-color: $background-color;
+  color: $text-color;
+  font-family: 'EB Garamond', serif;
+}
+
+a {
+  color: $link-color;
+}
+
+a:hover {
+  color: $link-hover-color;
+  text-decoration: underline;
+}
+
+.navbar, .site-header {
+  background: #121826;
+  border-bottom: 1px solid #1f2937;
+}
+
+.site-title, .site-title:visited {
+  color: $accent-color;
+}
