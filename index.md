@@ -16,6 +16,7 @@ I published in Risk Management Magazine (Vol. 19, No. 3) a paper on exotic optio
 
 --- 
 
+
 🇮🇹
 
 Sono dottorando in Economics and Quantitative Methods. La mia ricerca si concentra su finanza quantitativa e machine learning, con applicazioni alla valutazione di derivati esotici e alla modellizzazione del rischio di credito.
