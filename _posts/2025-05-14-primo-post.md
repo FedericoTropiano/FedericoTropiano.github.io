@@ -2,7 +2,6 @@
 layout: post
 title: "Il mio primo post"
 date: 2025-05-14
-categories: blog
 ---
 
 # Benvenuti nel mio blog!
