@@ -23,12 +23,13 @@ nav a {
   align-items: center;
   gap: 2rem;
   padding: 2rem;
+  flex-wrap: wrap; /* Per responsività su schermi piccoli */
 }
 
-.hero-flex .profile-pic {
-  width: 120px;
-  height: 120px;
+.profile-pic {
+  width: 500px;
+  height: 300px;
   object-fit: cover;
   border-radius: 50%;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  flex-shrink: 0; /* L’immagine non si ridimensiona troppo */
 }
