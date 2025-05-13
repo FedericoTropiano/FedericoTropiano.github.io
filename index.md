@@ -19,7 +19,9 @@ Sono studente di dottorato in Economics and Quantitative Methods. La mia ricerca
 ## 📌 Esplora
 
 - 🔍 [Ricerca](/ricerca)
-- 📖 [Blog](https://tua-substack.substack.com)
+- 📖 [Substack (wip)](https://tua-substack.substack.com)
 - 🎓 [Lezioni Private](/tutoring)
 - ✉️ [Contatti](/contatti)
+- 📝 [Blog](/blog/)
+
 <!-- Puoi espandere con link a pubblicazioni, progetti, GitHub -->
