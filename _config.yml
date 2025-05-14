@@ -25,7 +25,7 @@ minima:
 # Personalizzazione menu di navigazione
 header_pages:
   - about.md
-  - blog.md
+  - blog.html
   - risorse.md
   - tutoring.md
 
