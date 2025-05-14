@@ -8,12 +8,13 @@ title: Home
 
 I am a PhD Student in Economics and Quantitative Methods. My research focuses on Quantitative Finance.
 
-## 📌 Esplora
+## Esplora
 
-- 🔍 [Ricerca](/ricerca)
-- 📖 [Substack (wip)](https://tua-substack.substack.com)
-- 🎓 [Lezioni Private](/tutoring)
-- ✉️ [Contatti](/contatti)
-- 📝 [Blog](/blog/)
+- [Blog](/blog/)
+- [Lezioni Private](/tutoring)
+<!-- - 🔍 [Ricerca](/ricerca) -->
+<!-- - 📖 [Substack (wip)](https://tua-substack.substack.com) -->
+<!-- - ✉️ [Contatti](/contatti) -->
+
 
 <!-- Puoi espandere con link a pubblicazioni, progetti, GitHub -->
