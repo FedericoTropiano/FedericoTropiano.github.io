@@ -4,7 +4,7 @@ title: Home
 ---
 
 # About Me
-<img src="me_laurea.jpg" alt="Foto di Federico Tropiano" style="width: 200px; border-radius: 10px; margin-bottom: 1rem;">
+<img src="me_laurea.JPG" alt="Foto di Federico Tropiano" style="width: 200px; border-radius: 10px; margin-bottom: 1rem;">
 PhD Student in Quantitative Finance  
 University of Genoa • [CV](cv.pdf)
 
