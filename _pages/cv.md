@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics and Quantitative Methods - Mathematical Finance
+* M.S. in Economics and Data Science (110L), University of Genoa, 2024
+* B.S. in Economics, University of Genoa, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2025
+  * AIFIRM (Italian Association of Financial Risk Management)
+  * Course in "Statistical Programming with R: Applications in Credit Risk Management"
+  * Course in "Programming with Python"
 
 * Fall 2015: Research Assistant
   * GitHub University
