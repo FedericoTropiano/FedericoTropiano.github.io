@@ -17,29 +17,33 @@ Education
 
 Work experience
 ======
-* June 2025
-  * AIFIRM (Italian Association of Financial Risk Management)
+* Lecturer -- AIFIRM (Italian Association of Financial Risk Management) 
   * Course in "Statistical Programming with R: Applications in Credit Risk Management"
   * Course in "Programming with Python"
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Teaching Assistant -- University of Genoa
+  * Teaching Assistant for the MSc course ”Financial Risk Management Techniques”
+  * Led practical lab sessions bridging quantitative finance theory with computational implementation in Python and R
 
-* Summer 2015: Research Assistant
+* Private Tutor at University Level -- Online
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages:
+*   Python
+*   C++ (Learning)
+*   R
+*   MATLAB
+*   SQL
+* Quantitative & ML Libraries:
+*   Pandas
+*   NumPy
+*   PyTorch
+*   SciPy
+
 
 Publications
 ======
