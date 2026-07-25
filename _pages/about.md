@@ -21,7 +21,3 @@ My research focuses on the mathematical modeling of optimal trading problems, pr
 - Optimal execution and market impact
 - Quantitative finance
 - Mathematical modeling of financial markets
-
-## Background
-
-I hold a Master's degree in Economics and Data Science, with a focus on quantitative methods, statistics, and computational approaches to financial problems.
