@@ -7,8 +7,10 @@ author_profile: false
 # LEAF
 ## Learning Economics And Finance
 
-Tutoring universitario d'eccellenza nelle discipline quantitative per studenti di Economia, Finanza e discipline affini.
+Comprendi davvero matematica, economia e finanza quantitativa.
+Un percorso individuale rigoroso per studenti universitari che vogliono puntare all'eccellenza.
 
+PhD Candidate in Mathematical Finance
 ---
 
 ## La missione
