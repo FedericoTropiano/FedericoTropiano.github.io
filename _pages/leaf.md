@@ -12,6 +12,13 @@ Un percorso individuale rigoroso per studenti universitari che vogliono puntare 
 
 PhD Candidate in Mathematical Finance
 ---
+## Chi sono
+
+Sono Federico Tropiano, PhD Candidate in Mathematical Finance.
+
+La mia attività di ricerca e insegnamento combina matematica, finanza quantitativa ed economia.
+
+---
 
 ## La missione
 
@@ -107,14 +114,6 @@ Nel tempo LEAF svilupperà:
 - dispense complete
 - guide agli esami
 - raccolte di esercizi svolti
-
----
-
-## Chi sono
-
-Sono Federico Tropiano, PhD Candidate in Mathematical Finance.
-
-La mia attività di ricerca e insegnamento combina matematica, finanza quantitativa ed economia.
 
 ---
 
