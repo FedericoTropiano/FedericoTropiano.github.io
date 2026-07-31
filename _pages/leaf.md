@@ -3,10 +3,6 @@ title: "LEAF — Learning Economics And Finance"
 permalink: /leaf/
 author_profile: false
 ---
-
-# LEAF
-## Learning Economics And Finance
-
 Comprendi davvero matematica, economia e finanza quantitativa.
 Un percorso individuale rigoroso per studenti universitari che vogliono puntare all'eccellenza.
 
